@@ -37,9 +37,9 @@ The open-source image product [**fake2db Data Generation Tool**]() provided by t
 
 ## Image Description
 
-| Image Specification                                                                                          | Feature Description                                      | Remarks |
-|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------|
-| [fake2db-0.5.4-kunpeng](https://github.com/HuaweiCloudDeveloper/fake2db-image/tree/fake2db-0.5.4-kunpeng) | Installed and deployed based on Kunpeng server + Huawei Cloud EulerOS 2.0 64bit |         |
+| Image Specification                                                                                       | Feature Description                                      | Remarks |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------|
+| [fake2db-1.0.0-kunpeng](https://github.com/HuaweiCloudDeveloper/fake2db-image/tree/fake2db-1.0.0-kunpeng) | Installed and deployed based on Kunpeng server + Huawei Cloud EulerOS 2.0 64bit |         |
 
 ## Get Help
 - For more questions, you can contact us through [issue](https://github.com/HuaweiCloudDeveloper/fake2db-image/issues) or the service support of the designated product in the Huawei Cloud Market.
