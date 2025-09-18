@@ -25,7 +25,7 @@
     - Supports localization settings (e.g., --locale cs_CZ to generate Czech data) and random seeds (--seed) to ensure data reproducibility.
     - Allows custom data columns (--custom) to meet specific testing scenario requirements.
 
-The open-source image product [**fake2db Data Generation Tool**]() provided by this project has pre-installed Neo4j and its related operating environment, and offers deployment templates. Follow the user guide to easily start an "out-of-the-box" efficient experience.
+The open-source image product [**fake2db Data Generation Tool**](https://marketplace.huaweicloud.com/intl/hidden/contents/07ec8262-2fda-4fa1-a79e-2b840c5b8343) provided by this project has pre-installed Neo4j and its related operating environment, and offers deployment templates. Follow the user guide to easily start an "out-of-the-box" efficient experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher
